@@ -1,2 +1,8 @@
-# INF354
-Main folder for all INF 354 Homework assignments. Made for better grouping of the same subject taks
+# INF 354 Project Collection
+
+| Project | Description | Link |
+|---------|-------------|------|
+| Project 1 | CampusBuzz | [View →]((https://github.com/The-Bit-Watcher/INF354-CampusBuzz-.git)) |
+
+
+
